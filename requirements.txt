@@ -1,0 +1,19 @@
+pydantic
+openai_agents
+python_dotenv
+langgraph
+fastapi
+a2a-sdk[all]
+httpx
+gradio
+pillow
+opentelemetry-api>=1.37.0
+opentelemetry-sdk>=1.37.0
+opentelemetry-exporter-otlp>=1.37.0
+opentelemetry-instrumentation-fastapi>=0.58b0
+opentelemetry-instrumentation-httpx>=0.58b0
+sqlalchemy
+#---------------------Observability and Alert-----------------
+prometheus-client
+langfuse
+openinference-instrumentation-openai-agents
